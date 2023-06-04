@@ -1,1 +1,3 @@
-# python-tutorials
+# Python tutorials
+
+Tutorials for learning Python
